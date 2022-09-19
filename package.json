@@ -1,0 +1,22 @@
+{
+  "name": "wasm-book-examples",
+  "version": "0.1.0",
+  "description": "Examples from the art of webassembly book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcsolanadal/wasm-book-examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcsolanadal/wasm-book-examples/issues"
+  },
+  "homepage": "https://github.com/marcsolanadal/wasm-book-examples#readme",
+  "devDependencies": {
+    "eslint": "^8.23.1"
+  }
+}
