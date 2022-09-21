@@ -18,5 +18,8 @@
   "homepage": "https://github.com/marcsolanadal/wasm-book-examples#readme",
   "devDependencies": {
     "eslint": "^8.23.1"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
   }
 }
